@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/pulsalapak/__init__.py
+src/pulsalapak_automate.egg-info/PKG-INFO
+src/pulsalapak_automate.egg-info/SOURCES.txt
+src/pulsalapak_automate.egg-info/dependency_links.txt
+src/pulsalapak_automate.egg-info/requires.txt
+src/pulsalapak_automate.egg-info/top_level.txt
