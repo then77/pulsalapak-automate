@@ -5,7 +5,7 @@ def readme():
   return open(os.path.join(os.path.dirname(__file__), 'README.md'))
 
 setup(
-  name = "pulsaapak_automate",
+  name = "pulsalapak_automate",
   version = "0.1.0",
   author = "Realzzy",
   author_email = "hello@therealzzy.xyz",
