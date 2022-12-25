@@ -2,7 +2,7 @@ import os
 from setuptools import setup, find_packages
 
 def readme():
-  return open(os.path.join(os.path.dirname(__file__), 'README'))
+  return open(os.path.join(os.path.dirname(__file__), 'README.md'))
 
 setup(
   name = "pulsaapak_automate",
